@@ -1,0 +1,37 @@
+List of things to do:
+
+## current projects' steps
+everyone reacts to many items
+
+## other smallish projects
+robert - sword and befriend
+raen's quiz mini-game
+mrs.aristo's schedule
+
+## other big projects
+main quest
+spectator mode in gladiating arena?
+ending scenario
+
+## ideas for (distant) future releases
+maybe reformat all the inventory stuff using the new image_pos
+evil victory/spider fight
+tourists
+body guard curryan to capital
+an eighth "big league" gladiator: poison (you should get cured after match, no matter what)
+rewrite farmers to sound uneducated
+
+## unimportant ideas
+klippy sells a document revealing something or other about the mayor
+Tourist/gladiator boys say something different when walking than when practicing
+Nickieldur circles the arena when he can't reach you
+Improve Derek's quick attacks in the arena (improved filter, improved moveto location)
+perhaps use [micro_ai]s to make certain gladiators more reckless? (higher aggression)
+allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
+consequences for being caught in a place you shouldn't be (ie, the barnhouse, guardhouse, fishing-hut)
+heavy armor from the smiths; you can equip/unequip it: 80ish gold for -2MP, +10% blade&impact, +30% pierce
+maybe figure out/fix the poison issue? (for now the damage is applied manually each side turn, in scenario.cfg)
+	- Maybe: instead of unhealable, just manually make all units resting=no and double check there are no healers/villages
+	- but bear in mind that poison shouldn't do the whole 8 damage, the current implementation allows me to very easily choose how much it does
+add title deed
+all unit descriptions
