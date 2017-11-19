@@ -1,5 +1,6 @@
 This is an add-on for The Battle For Wesnoth (www.wesnoth.org). It is currently unfinished (and therefore unpublished)
 but an older version was made availabe at https://forums.wesnoth.org/viewtopic.php?f=8&t=45215
+Credits listed in about.cfg
 
 Please comment at the forum linked above.
 
