@@ -8,6 +8,7 @@ deal with the doors problem
 robert - sword and befriend
 raen's quiz mini-game
 mrs.aristo's schedule
+"traffic jam" puzzle in mountians
 
 ## other big projects
 main quest

@@ -8,8 +8,9 @@ Raplice: from Replace.
 	most people in the campaign just call it "the village"
 
 Voadar: from the campaign abbreviation.
-	At first I wanted to name the campaign "Voyage of a Drake," but modified it because
-	"Voad" didn't sound like a good enough name for the main character. 
+	At first I wanted to name the campaign "Vengeance of a Drake," but added ": an RPG" 
+	because "Voad" didn't sound like a good enough name for the main character. 
+	(and later changed "Vengeance" to "Voyage" since it seemed a closer fit)
 
 Cadameron: mix between the popular name "Cameron" and a dead corpse, aka "Cadaver." Hm...
 
@@ -18,8 +19,7 @@ Meaty, the tutorial cow: I think this one's pretty obvious. Named on an impulse,
 
 Dogifforo: I had an elementary school teacher whom my friends and I all hated. Naturally,
 	we made her the villain in all our games, but mixed the letters of her name up so she
-	wouldn't know we were talking about her. Dogifforo is only slightly changed from the
-	mixed up version.
+	wouldn't know we were talking about her. Dogifforo is very close to the mixed up version.
 
 Nickieldur, Rayyan, Derek, Robert: Nick, Ryan, Derek, and Robert, some good friends from my 
 	high school clique
@@ -41,14 +41,14 @@ Klippy: from kleptomaniac. Well well well well well well well.
 
 Ivan: When i was young, my mom would often take me to visit relatives, which invariably 
 	meant me sitting boredly while they talked for hours on end. One such relative was 
-	named Ivan, whose name seems like a good match for the talkative old man in this campaign.
+	named Ivan, and the name seems like a good match for the talkative old man in this campaign.
 
 Pema: The name from a character in The Legend of Korra who my character vaguely 
 	reminds me of
 	
 Abe: abe was not at the market. (Tee hee hee)
 
-Nhardril: one of my first bosses was named Nhar. he was a dick, unlike Nhardril
+Nhardril: one of my first bosses was named Nhar. tho he was a complete dick, unlike Nhardril
 
 Fifo: First in, first out (mnemonic for data stacks)
 
@@ -61,4 +61,4 @@ Hob: When i came up with this, it just seemed like a natural name for the charac
 	
 Raen: she actually explains it in-game. Even though I made up Raplice first, exactly as described
 	above, when I thought of this character, the ghost of the town's founder, I thought the town should
-	be named after her. So now "Raplice" evolved from "Raen Place." "Raen" was chosen to fit that.
+	be named after her. So "Raen" was chosen so that "Raplice" could plausibly have evolved from "Raen Place."
