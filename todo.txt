@@ -3,17 +3,21 @@ List of things to do:
 ## current projects' steps
 everyone reacts to many items
 deal with the doors problem
+Rayyan quickstrike doesn't kill
 
 ## other smallish projects
 robert - sword and befriend
 raen's quiz mini-game
 mrs.aristo's schedule
 "traffic jam" puzzle in mountians
+occationally tax collection
+you can return stolen items to the owner
 
 ## other big projects
 main quest
 spectator mode in gladiating arena?
 ending scenario
+hint system
 
 ## ideas for (distant) future releases
 maybe reformat all the inventory stuff using the new image_pos
