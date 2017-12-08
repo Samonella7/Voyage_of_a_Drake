@@ -105,6 +105,8 @@ Below is an overview of the code organization. Note: This is not written to work
     gladiator win                               4,7,12,50 gold
     selling bear claws                          10,15,20,40 gold, or 1 fish, or 2 meat
     stolen goods                                7,15 gold
+	charm										25 gold
+	herbs to tourists							3 gold for 1/4 of bag
     
 13)Basic util structure: so up to this point I've mentioned a lot of utils/whatever.cfg files. 
     I guess it's time I explain a bit about that. 

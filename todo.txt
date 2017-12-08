@@ -1,15 +1,14 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Pema, Nyssa, Todd, Father Aristo, Mrs. Aristo, Robert
+item conversations for: Nhardril, Pema, Father Aristo, Mrs. Aristo, Robert
 deal with the doors problem
-new ivan sprite (apparently is from white troll)
 
 ## other smallish projects
 robert - sword and befriend
 raen's quiz mini-game
 mrs.aristo's schedule
-occationally tax collection
+occational tax collection
 you can return stolen items to the owner
 custom blade from smiths
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut)
