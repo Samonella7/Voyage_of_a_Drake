@@ -1,13 +1,13 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Pema, Father Aristo, Mrs. Aristo, Robert
-deal with the doors problem
+item conversations for: Nhardril, Father Aristo, Mrs. Aristo, Robert
+pike's anim
 
 ## other smallish projects
 robert - sword and befriend
-raen's quiz mini-game
 mrs.aristo's schedule
+raen's quiz mini-game
 occational tax collection
 you can return stolen items to the owner
 custom blade from smiths
@@ -19,7 +19,6 @@ main quest
 spectator mode in gladiating arena?
 ending scenario
 hint system
-"traffic jam" puzzle in mountians
 
 ## plans for (distant) future releases
 maybe reformat all the inventory stuff using the new image_pos
