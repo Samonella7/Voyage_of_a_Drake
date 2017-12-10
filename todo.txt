@@ -1,12 +1,11 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Father Aristo, Mrs. Aristo, Robert
-pike's anim
+item conversations for: Nhardril, Father Aristo, Robert
+all about Mrs. Aristo
 
 ## other smallish projects
 robert - sword and befriend
-mrs.aristo's schedule
 raen's quiz mini-game
 occational tax collection
 you can return stolen items to the owner
