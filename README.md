@@ -101,8 +101,8 @@ Below is an overview of the code organization. Note: This is not written to work
     bunny race betting                          1,10,30 gold
     deliver a letter                            3 gold
     carapace                                    5 gold
-    cut wood                                    1,4 gold
-    gladiator win                               4,7,12,50 gold
+    cut wood                                    1,3 gold
+    gladiator win                               3,6,10,50 gold
     selling bear claws                          10,15,20,40 gold, or 1 fish, or 2 meat
     stolen goods                                7,15 gold
 	charm										25 gold

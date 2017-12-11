@@ -7,9 +7,7 @@ all about Mrs. Aristo
 ## other smallish projects
 robert - sword and befriend
 raen's quiz mini-game
-occational tax collection
 you can return stolen items to the owner
-custom blade from smiths
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut)
 	- custom event fired from schedule; simple filter whether unit is in sight
 
@@ -22,10 +20,11 @@ hint system
 ## plans for (distant) future releases
 maybe reformat all the inventory stuff using the new image_pos
 evil victory/spider fight
-tourists
+actual tourists
 body guard curryan to capital
 an eighth "big league" gladiator: poison (you should get cured after match, no matter what)
 rewrite farmers to sound uneducated
+make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
 
 ## unimportant ideas
 someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
@@ -38,6 +37,7 @@ all unit descriptions
 
 ## probably more trouble than they're worth
 klippy sells a document revealing something or other about the mayor
+occational tax collection
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
 maybe figure out/fix the poison issue? (for now the damage is applied manually each side turn, in scenario.cfg)
 	- Maybe: instead of unhealable, just manually make all units resting=no and double check there are no healers/villages
