@@ -2,22 +2,23 @@ List of things to do:
 
 ## current projects' steps
 item conversations for: Nhardril, Father Aristo, Robert, Raen
+dogifforo fight & results
 
 ## other smallish projects
 robert - sword and befriend
-raen's quiz mini-game
+raen's quiz mini-game (cold attack?)
 you can return stolen items to the owner
-hungry goblin
+hungry goblin (true ranged attack?)
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
 	- custom event fired from schedule; simple filter whether unit is in sight
+main quest
 
 ## other big projects
-main quest
 spectator mode in gladiating arena?
-ending scenario
+ending scenarios
 hint system
 
-## plans for (distant) future releases
+## big projects for (distant) future releases
 maybe reformat all the inventory stuff using the new image_pos
 evil victory/spider fight
 actual tourists
@@ -25,10 +26,10 @@ body guard curryan to capital
 an eighth "big league" gladiator: poison (you should get cured after match, no matter what)
 rewrite farmers to sound uneducated
 make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
+da music
 
 ## unimportant ideas
 someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
-Tourist/gladiator boys say something different when walking than when practicing
 Nickieldur circles the arena when he can't reach you
 Improve Derek's quick attacks in the arena (improved filter, improved moveto location)
 perhaps use [micro_ai]s to make certain gladiators more reckless? (higher aggression)
@@ -39,7 +40,7 @@ robert gladiator fight: uses true ranged magic attacks, runs to nearest 60% defe
 all unit descriptions
 
 ## probably more trouble than they're worth
-klippy sells a document revealing something or other about the mayor
+Tourist/gladiator boys say something different when walking than when practicing
 occational tax collection
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
 maybe figure out/fix the poison issue? (for now the damage is applied manually each side turn, in scenario.cfg)
