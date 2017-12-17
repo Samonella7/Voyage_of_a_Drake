@@ -3,9 +3,9 @@ List of things to do:
 ## current projects' steps
 item conversations for: Nhardril, Father Aristo, Robert, Raen
 dogifforo fight & results
+robert - sword and befriend
 
 ## other smallish projects
-robert - sword and befriend
 raen's quiz mini-game (cold attack?)
 you can return stolen items to the owner
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
@@ -39,9 +39,9 @@ some kind of fetch game with Fifo using a carapace
 robert gladiator fight: uses true ranged magic attacks, runs to nearest 60% defense place not adjacent to Voadar
 all unit descriptions
 [sound_source]s
+Tourist/gladiator boys say something different when walking than when practicing
 
 ## probably more trouble than they're worth
-Tourist/gladiator boys say something different when walking than when practicing
 occational tax collection
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
 maybe figure out/fix the poison issue? (for now the damage is applied manually each side turn, in scenario.cfg)
