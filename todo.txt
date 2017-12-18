@@ -22,19 +22,23 @@ hint system
 maybe reformat all the inventory stuff using the new image_pos
 evil victory/spider fight
 actual tourists
+	- a shady guy buys stuff from klippy
+	- a bard
+	- the family
+	- a mini-boss gladiator (idk what prize)
 body guard curryan to capital
 an eighth "big league" gladiator: poison (you should get cured after match, no matter what)
 rewrite farmers to sound uneducated
 make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
 da music
+fishing mini-boss (if you fish in middle of lake)
+	-minions very weak to the net attack; give you 1 fish whenever you kill one
+	-change bear_claws to beast_claws or something, you get them for defeating this fellow too
 
 ## unimportant ideas
 someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
 Nickieldur circles the arena when he can't reach you
-Improve Derek's quick attacks in the arena (improved filter, improved moveto location)
-perhaps use [micro_ai]s to make certain gladiators more reckless? (higher aggression)
-heavy armor from the smiths; you can equip/unequip it: 80ish gold for -2MP, +10% blade&impact, +30% pierce
-klippy meets with some other buyer
+use [micro_ai]s to make certain gladiators more reckless (higher aggression)
 some kind of fetch game with Fifo using a carapace
 robert gladiator fight: uses true ranged magic attacks, runs to nearest 60% defense place not adjacent to Voadar
 all unit descriptions
@@ -42,9 +46,7 @@ all unit descriptions
 Tourist/gladiator boys say something different when walking than when practicing
 
 ## probably more trouble than they're worth
+heavy armor from the smiths; you can equip/unequip it: 80ish gold for -2MP, +10% blade&impact, +30% pierce
 occational tax collection
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
-maybe figure out/fix the poison issue? (for now the damage is applied manually each side turn, in scenario.cfg)
-	- Maybe: instead of unhealable, just manually make all units resting=no and double check there are no healers/villages
-	- but bear in mind that poison shouldn't do the whole 8 damage, the current implementation allows me to very easily choose how much it does
 add title deed
