@@ -4,6 +4,7 @@ List of things to do:
 item conversations for: Nhardril, Father Aristo, Robert, Raen
 dogifforo fight & results
 robert - sword and befriend
+all about the key
 
 ## other smallish projects
 raen's quiz mini-game (cold attack?)
@@ -34,6 +35,7 @@ da music
 fishing mini-boss (if you fish in middle of lake)
 	-minions very weak to the net attack; give you 1 fish whenever you kill one
 	-change bear_claws to beast_claws or something, you get them for defeating this fellow too
+You can win the Dogifforo fight even if Maple dies; she's gone forever after that
 
 ## unimportant ideas
 someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
