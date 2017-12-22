@@ -1,10 +1,10 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Father Aristo, Robert, Raen
-dogifforo fight & results
+item conversations for: Nhardril, Robert, Raen
 robert - sword and befriend
 all about the key
+further balance Dogifforo fight
 
 ## other smallish projects
 raen's quiz mini-game (cold attack?)
