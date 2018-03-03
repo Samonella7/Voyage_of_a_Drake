@@ -1,35 +1,35 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Robert, Raen
-robert - sword and befriend
-all about the key
-further balance Dogifforo fight
+item conversations for: Nhardril, Robert
+make the attack you earn from Raen
 
 ## other smallish projects
-raen's quiz mini-game (cold attack?)
-you can return stolen items to the owner
-consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
-	- custom event fired from schedule; simple filter whether unit is in sight
+all about the key
+robert - sword and befriend
 main quest
 
 ## other big projects
-spectator mode in gladiating arena?
 ending scenarios
 hint system
 
 ## projects for (distant) future releases
+consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
+	- custom event fired from schedule; simple filter whether unit is in sight
+further balance Dogifforo fight
 maybe reformat all the inventory stuff using the new image_pos
 evil victory/spider fight
 actual tourists
-	- a shady guy buys stuff from klippy
+	- a shady guy, buys stuff from klippy
 	- a bard
 	- the family
 	- a mini-boss gladiator (prize: mercenary in final battle?)
 body guard curryan to capital
 an eighth "big league" gladiator: poison (you should get cured after match, no matter what)
+ninth "big leage" gladiator: the mage got gud
 rewrite farmers to sound uneducated
 make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
+	- then spectator mode
 da music
 fishing mini-boss (if you fish in middle of lake)
 	-minions very weak to the net attack; give you 1 fish whenever you kill one
@@ -38,6 +38,7 @@ You can win the Dogifforo fight even if Maple dies; she's gone forever after tha
 buried treasure of some kind
 
 ## unimportant ideas
+you can return stolen items to the owner
 someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
 Nickieldur circles the arena when he can't reach you
 use [micro_ai]s to make certain gladiators more reckless (higher aggression)
@@ -49,6 +50,6 @@ Tourist/gladiator boys say something different when walking than when practicing
 
 ## probably more trouble than they're worth
 heavy armor from the smiths; you can equip/unequip it: 80ish gold for -2MP, +10% blade&impact, +30% pierce
-occational tax collection
+occasional tax collection
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
 add title deed
