@@ -1,11 +1,10 @@
 List of things to do:
 
 ## current projects' steps
-item conversations for: Nhardril, Robert
 
 ## other smallish projects
 all about the key
-robert - sword and befriend
+robert - sword and befriend, and item convos
 main quest
 
 ## other big projects
@@ -23,7 +22,7 @@ maybe reformat all the inventory stuff using the new image_pos
 evil victory/spider fight
 actual tourists
 	- a shady guy, buys stuff from klippy
-	- a bard
+	- a bard (hired by tavern, maple's fish recipe)
 	- the family
 	- a mini-boss gladiator (prize: mercenary in final battle?)
 body guard curryan to capital
