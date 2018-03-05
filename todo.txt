@@ -11,8 +11,6 @@ main quest
 ending scenarios
 hint system
 make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
-	- extra gladiator: poison (you should get cured after match, no matter what)
-	- extra gladiator: the mage got gud
 
 ## projects for (maybe distant) future releases
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
@@ -24,9 +22,11 @@ actual tourists
 	- a shady guy, buys stuff from klippy
 	- a bard (hired by tavern, maple's fish recipe)
 	- the family
-	- a mini-boss gladiator (prize: mercenary in final battle?)
+	- a mini-boss gladiator (only shows up after hob has been spanked) (prize: mercenary in final battle?)
 body guard curryan to capital
 rewrite farmers to sound uneducated
+extra gladiator: poison (you should get cured after match, no matter what)
+extra gladiator: the mage got gud
 gladiator spectator mode
 da music
 fishing mini-boss (if you fish in middle of lake)
