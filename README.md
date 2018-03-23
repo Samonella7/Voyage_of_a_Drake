@@ -81,7 +81,7 @@ Below is an overview of the code organization. Note: This is not written to work
     50hp worth of meat from Grigar:             5 gold      10  hp/gold
     25hp worth of meat from the tavern:         4 gold      6.25hp/gold
     3hp worth of ale from the tavern:           1 gold      3   hp/gold
-    10hp, 1xp of meditation from Robert:        1 gold      10  hp/gold (eventually: fire resistance improvement)
+    20hp, 1xp of meditation from Robert:        1 gold      20  hp/gold (eventually: fire resistance improvement)
     12hp+cure of fish from Juditha:             4 gold      3   hp/gold (plus cure)
     12hp+cure of fish from Rachael:             3 gold      4   hp/gold (plus cure)
     fullhp sleep from inn:                      15 gold     2-3 hp/gold (first time, earmuffs)

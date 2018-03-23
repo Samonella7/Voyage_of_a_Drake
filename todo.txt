@@ -1,15 +1,15 @@
 List of things to do:
 
 ## current projects' steps
+robert - item convos
+fix message first time into town hall
 
 ## other smallish projects
-robert - sword and befriend, and item convos
-main quest
+winning scenario 1
+hint system
 
 ## other big projects
 ending scenarios
-hint system
-make over the gladiating arena so you have challengers that change daily and you can choose which ones to accept
 
 ## projects for (maybe distant) future releases
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
