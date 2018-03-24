@@ -14,6 +14,10 @@ Below is an overview of the code organization. Note: This is not written to work
         or example, almost every person has one large "new_schedule" event that defines how
         that unit moves around depending on the day/night. More details can be found in
         utils/scenario_schedule_utils.cfg, which basically drives the day/night schedules.
+	a) The unit files themselves (in units/) only contain the events; the actual unit config is
+		just a [base_unit], reffering to a unit in units/base_units/
+		This way, scenario 3 can have the same unit types without all the schedule and conversation events
+	b) The base units' type ids are prefixed with "NE," short for "No Events"
 
 2) When moving units (as part of their "new_schedule"s or otherwise) there are 
         a few important things to know:
