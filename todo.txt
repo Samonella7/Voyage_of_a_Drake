@@ -1,15 +1,12 @@
 List of things to do:
 
 ## current projects' steps
-robert - item convos
-fix message first time into town hall
 
 ## other smallish projects
-winning scenario 1
-hint system
 
 ## other big projects
-ending scenarios
+Valor
+Vengeance
 
 ## projects for (maybe distant) future releases
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
@@ -17,7 +14,7 @@ consequences for being caught in a place you shouldn't be (barnhouse, guardhouse
 	- change sleeping to use [end_turn] instead of killing Voadar so he can be found by filters (maybe? consider auto saves)
 further balance Dogifforo fight
 maybe reformat all the inventory stuff using the new image_pos
-evil victory/spider fight
+spider fight/ Violence
 actual tourists
 	- a shady guy, buys stuff from klippy
 	- a bard (hired by tavern, maple's fish recipe)
