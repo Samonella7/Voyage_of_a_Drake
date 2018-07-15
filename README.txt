@@ -8,7 +8,7 @@ Please comment at the forum linked above.
 This is an RPG campaign, unique even among other RPG campaigns. Rather than focusing on weapons, spells, etc,
 like most Wesnoth RPGs do, it focuses on story and interactions with the NPCs. 
 
-Below is an overview of the code organization. Note: This is not written to work with github's .md formatting; click "raw" above to make it readable.
+Below is an overview of the code organization. 
 
 1) Events that specifically apply to one person are defined in that unit's unit file. 
         or example, almost every person has one large "new_schedule" event that defines how
