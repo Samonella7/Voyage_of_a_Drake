@@ -1,8 +1,8 @@
 List of things to do:
 
 ## current projects' steps
-Balance 4_Vengeance for various builds
-Epilogue
+Full test playthroughs
+Custom WML Command hotkeys?
 
 ## other smallish projects
 
