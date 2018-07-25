@@ -1,7 +1,6 @@
 List of things to do:
 
 ## current projects' steps
-Full test playthroughs
 Custom WML Command hotkeys?
 
 ## other smallish projects
