@@ -2,3 +2,13 @@
 -----
 Well well. You never can tell.
 (with bees)
+
+1.0.0
+8/1/2018
+-----
+Complete campaign published
+
+1.0.1
+8/2/2018
+-----
+Updates suggested by Konrad2
