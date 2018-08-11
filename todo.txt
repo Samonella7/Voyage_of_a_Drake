@@ -4,12 +4,11 @@ List of things to do:
 Custom WML Command hotkeys?
 
 ## other smallish projects
-Ronry last breath cutscene
 
 ## other big projects
 
 ## projects for (maybe distant) future releases
-spider fight/ Violence
+spider fight/Violence
 actual tourists
 	- shady guy, buys stuff from klippy
 	- bard (hired by tavern, maple's fish recipe)
@@ -18,7 +17,6 @@ body guard curryan to capital
 extra gladiator: poison (you should get cured after match, no matter what)
 extra gladiator: the mage got gud
 gladiator spectator mode
-fix bunny minigame so you can end turn, just use a fake maple
 
 ## lower priority projects for distant future releases
 consequences for being caught in a place you shouldn't be (barnhouse, guardhouse, fishing-hut, inn room)
