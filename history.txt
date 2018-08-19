@@ -12,3 +12,13 @@ Complete campaign published
 8/2/2018
 -----
 Updates suggested by Konrad2
+
+1.0.2
+8/4/18
+-----
+More updates suggested by Konrad2
+
+1.0.3
+8/19/2018
+-----
+Adds portrait for Fifo
