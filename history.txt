@@ -22,3 +22,8 @@ More updates suggested by Konrad2
 8/19/2018
 -----
 Adds portrait for Fifo
+
+1.0.4
+11/30/2018
+-----
+Fixes a bug in the Meviel fight

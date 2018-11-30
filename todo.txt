@@ -6,6 +6,7 @@ Custom WML Command hotkeys?
 ## other smallish projects
 add interactions with dogifforo
 Moe can join 3_Valor
+horses follow on movement instead of after turn
 
 ## other big projects
 
