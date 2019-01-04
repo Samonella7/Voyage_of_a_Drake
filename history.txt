@@ -27,3 +27,8 @@ Adds portrait for Fifo
 11/30/2018
 -----
 Fixes a bug in the Meviel fight
+
+1.0.5
+1/4/2019
+-----
+Corrects the displayed heal amount for ale
