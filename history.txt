@@ -32,3 +32,10 @@ Fixes a bug in the Meviel fight
 1/4/2019
 -----
 Corrects the displayed heal amount for ale
+
+1.0.6
+7/29/2019
+-----
+Fixes Rachael's portrait while in the boat
+Fixes completion laurel bug
+Fixes Roberts conversation dialog directly after giving him the sword

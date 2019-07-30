@@ -33,6 +33,7 @@ fishing mini-boss (if you fish in middle of lake)
 robert gladiator: uses true ranged magic attacks, runs to nearest 60% defense place not adjacent to Voadar
 
 ## unimportant ideas
+fixing gladiator hob's traits
 buried treasure of some kind
 you can return stolen items to the owner
 Nickieldur circles the arena when he can't reach you
@@ -44,8 +45,6 @@ Tourist/gladiator boys say something different when walking than when practicing
 
 ## probably more trouble than they're worth
 rewrite farmers to sound uneducated
-someone calls guards if you show carapaces (if guards are in sight, otherwise just throws a tantrum)
-heavy armor from the smiths; you can equip/unequip it: 80ish gold for -2MP, +10% blade&impact, +30% pierce
 Dogifforo does stuff: occasional tax collection, delivering packages to Ronry
 allow you to stick up for Grigar when the smiths are picking on him (marked in units/Anatus.cfg)
 add title deed
