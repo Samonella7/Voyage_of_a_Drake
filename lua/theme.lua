@@ -3,10 +3,10 @@
 -- this is straight from UtBS, to make dazed status display
 
 local _ = wesnoth.textdomain "wesnoth-utbs"
-local old_unit_status = wesnoth.theme_items.unit_status
+local old_unit_status = wesnoth.interface.game_display.unit_status
 
-function wesnoth.theme_items.unit_status()
-	local u = wesnoth.get_displayed_unit()
+function wesnoth.interface.game_display.unit_status()
+	local u = wesnoth.interface.get_displayed_unit()
 	if not u then return {} end
 	local s = old_unit_status()
 
