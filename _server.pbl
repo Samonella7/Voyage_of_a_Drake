@@ -1,0 +1,15 @@
+author="Samonella"
+description="Once there was a small village called Raplice. It was an ordinary village, full of ordinary people with ordinary lives. But when Voadar's life suddenly turned upside down, the young drake was forced to explore the community, unearth its hairy secrets, and rally the citizens to set things right.
+
+Voyage of a Drake is a Wesnoth RPG unlike any other. Instead of focusing on collecting items or leveling skill trees, this campaign is about interacting with complicated NPCs and completing puzzles, mini-games, and boss fights. Come prepared for a few hours of unique gameplay and abundant dialog.
+
+All feedback welcome on the forums."
+email="samonella7@gmail.com"
+icon="halo/fire-aura.png~SCALE(88,88)~CROP(9,9,72,72)~BLIT(units/drakes/fire-melee-2.png~RC(magenta>orange)~CROP(17,4,55,68))~BLIT(units/human-peasants/peasant-idle-6.png~RC(magenta>teal)~FL()~CROP(17,15,32,44),40,28)~BLIT(units/human-peasants/peasant-ranged.png~FL()~CROP(31,27,5,5),57,40)"
+forum_auth=true
+title="Voyage of a Drake: an RPG"
+type="campaign"
+version="1.2.0"
+[feedback]
+	topic_id=45215
+[/feedback]

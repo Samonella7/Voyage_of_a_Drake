@@ -50,3 +50,9 @@ Nerf max bunny racing bet to 20 from 30
 Various prose improvements
 Reduced Curryan's letter delivery requirement to 6 from 8
 Reduced elves' syllogism count to 6 from 8
+
+1.2.0
+4.15.2024
+-----
+Port to 1.18
+Too many misc fixes/balance adjustments to list

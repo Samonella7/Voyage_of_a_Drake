@@ -92,17 +92,17 @@ Below is an overview of the code organization.
     full+cure cheater potion from Klippy:       20 gold     2ishhp/gold (always usable)
         Other sales:
     net (fishing and attack/story)              15 gold
-    bunny race betting                          1,10,30 gold
+    bunny race betting                          1,10,20 gold
     spectate gladiator match                    1 gold
-    sword (unplanned reward)                    20 gold
-    armor (+15% blade & pierce resistances)     25 gold
-    padding (+10% cold, +10% impact)            15 gold
-    warmth charm (+30% cold, +10% arcane)       40 gold
-    armor upgrade (+20% impact +30% other phys) 60 gold
+    sword                                       20 gold
+    armor (+10% blade & pierce resistances)     25 gold
+    padding (+10% impact)                       15 gold
+    warmth charm (+20% cold)                    40 gold
+    armor upgrade (+10% all phys)               100 gold
     manicure (+2 melee damage)                  30 gold
     
         Income/payments:
-    bunny race betting                          1,10,30 gold
+    bunny race betting                          1,10,20 gold
     deliver a letter                            3 gold
     carapace                                    5 gold
     cut wood                                    1,3 gold
